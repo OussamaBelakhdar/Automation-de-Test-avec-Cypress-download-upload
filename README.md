@@ -25,10 +25,10 @@ Before you proceed with running the tests, make sure you have the following prer
 `npm init -y`    
 -**Install Cypress**: Run the following command to install Cypress as a development dependency:  
 `npm install cypress --save-dev`      
-This command will add Cypress to your project's node_modules folder and package.json file.
--**Installez les plugins cypress-file-upload et cypress-downloadfile**:  
-`npm install --save-dev cypress-file-upload`
-`npm install --save-dev cypress-downloadfile`          
+This command will add Cypress to your project's node_modules folder and package.json file.  
+-**Installez les plugins cypress-file-upload et cypress-downloadfile**:    
+`npm install --save-dev cypress-file-upload`  
+`npm install --save-dev cypress-downloadfile`            
 -**Run Cypress for the first time**: After installing Cypress, you can open it by running:  
 `npx cypress open`  
 This will launch the Cypress Test Runner. The first time you open it, Cypress will create a cypress folder in your project directory. This folder will contain example tests and configurations you can use as a starting point for your tests.  
