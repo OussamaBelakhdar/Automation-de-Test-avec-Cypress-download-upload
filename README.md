@@ -47,8 +47,8 @@ The project comprises the following test scenarios:
 - Verifying the successful upload message.
 - Clicking the "Download files" link.
 - Extracting the Zip download link and constructing the absolute link.
-- Downloading the file and verifying its content.
-**Upload and Download in Tar Formatt**:  Similar to the previous test, this one focuses on downloading the uploaded file in Tar format. The steps are parallel to the Zip format test.   
+- Downloading the file and verifying its content.  
+  **Upload and Download in Tar Formatt**:  Similar to the previous test, this one focuses on downloading the uploaded file in Tar format. The steps are parallel to the Zip format test.   
 
 ## Running the Tests
 To execute the tests, navigate to the project directory and run the following command:
